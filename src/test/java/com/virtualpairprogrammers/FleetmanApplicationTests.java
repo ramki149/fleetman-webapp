@@ -12,5 +12,10 @@ public class FleetmanApplicationTests {
 	@Test
 	public void contextLoads() {
 	}
+	
+	@Test
+	public void testTest() {
+		System.out.println("This is a test");
+	}
 
 }
